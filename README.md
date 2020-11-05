@@ -1,42 +1,41 @@
 <p align="center">
-    <a href="https://github.com/UsergeTeam/Userge">
-        <img src="resources/userge.png" alt="Userge">
+    ![logo](https://telegra.ph/file/09d56c909d5193ff3434e.jpg)
     </a>
     <br>
     <b>Pluggable Telegram UserBot</b>
     <br>
-    <a href="https://github.com/UsergeTeam/Userge#inspiration-">Inspiration</a>
+    <a href="https://github.com/Ajibcdefgh/Userge-Dark#inspiration-">Inspiration</a>
     &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#features-">Features</a>
+    <a href="https://github.com/Ajibcdefgh/Userge-Dark#features-">Features</a>
     &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#example-plugin-">Example</a>
+    <a href="https://github.com/Ajibcdefgh/Userge-Dark#example-plugin-">Example</a>
     &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#requirements-">Requirements</a>
+    <a href="https://github.com/Ajibcdefgh/Userge-Dark#requirements-">Requirements</a>
     &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#project-credits-">Project Credits</a>
+    <a href="https://github.com/Ajibcdefgh/Userge-Dark#project-credits-">Project Credits</a>
     &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#copyright--license-">Copyright & License</a>
+    <a href="https://github.com/Ajibcdefgh/Userge-Dark#copyright--license-">Copyright & License</a>
 </p>
 
 # Userge 🔥
 
-[![Build Status](https://travis-ci.com/UsergeTeam/Userge.svg?branch=alpha)](https://travis-ci.com/UsergeTeam/Userge)
+[![Build Status](https://travis-ci.com/Ajibcdefgh/Userge-Dark.svg?branch=alpha)](https://travis-ci.com/Ajibcdefgh/Userge-Dark)
 ![Python Version](https://img.shields.io/badge/python-3.8-lightgrey)
-![Release](https://img.shields.io/github/v/release/UsergeTeam/Userge)
-![Stars](https://img.shields.io/github/stars/UsergeTeam/Userge)
-![Forks](https://img.shields.io/github/forks/UsergeTeam/Userge)
-![Issues Open](https://img.shields.io/github/issues/UsergeTeam/Userge)
-![Issues Closed](https://img.shields.io/github/issues-closed/UsergeTeam/Userge)
-![PRs Open](https://img.shields.io/github/issues-pr/UsergeTeam/Userge)
-![PRs Closed](https://img.shields.io/github/issues-pr-closed/UsergeTeam/Userge)
-![Contributors](https://img.shields.io/github/contributors/UsergeTeam/Userge)
-![Repo Size](https://img.shields.io/github/repo-size/UsergeTeam/Userge)
-![License](https://img.shields.io/github/license/UsergeTeam/Userge)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/UsergeTeam/Userge)
+![Release](https://img.shields.io/github/v/release/Ajibcdefgh/Userge-Dark)
+![Stars](https://img.shields.io/github/stars/Ajibcdefgh/Userge-Dark)
+![Forks](https://img.shields.io/github/forks/Ajibcdefgh/Userge-Dark)
+![Issues Open](https://img.shields.io/github/issues/Ajibcdefgh/Userge-Dark)
+![Issues Closed](https://img.shields.io/github/issues-closed/Ajibcdefgh/Userge-Dark)
+![PRs Open](https://img.shields.io/github/issues-pr/Ajibcdefgh/Userge-Dark)
+![PRs Closed](https://img.shields.io/github/issues-pr-closed/Ajibcdefgh/Userge-Dark)
+![Contributors](https://img.shields.io/github/contributors/Ajibcdefgh/Userge-Dark)
+![Repo Size](https://img.shields.io/github/repo-size/Ajibcdefgh/Userge-Dark)
+![License](https://img.shields.io/github/license/Ajibcdefgh/Userge-Dark)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/Ajibcdefgh/Userge-Dark)
 [![Plugins Repo!](https://img.shields.io/badge/Plugins%20Repo-!-orange)](https://github.com/UsergeTeam/Userge-Plugins)
 [![Join Channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/theUserge)
-[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/UsergeTeam/Userge/?ref=repository-badge)
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/UsergeTeam/Userge)
+[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/Ajibcdefgh/Userge-Dark/?ref=repository-badge)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Ajibcdefgh/Userge-Dark)
 
 > **Userge** is a Powerful , _Pluggable_ Telegram UserBot written in _Python_ using [Pyrogram](https://github.com/pyrogram/pyrogram).
 
